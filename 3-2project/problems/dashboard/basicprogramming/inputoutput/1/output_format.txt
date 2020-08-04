@@ -1,0 +1,1 @@
+print HELLO,WORLD! and then print the given input integer N on a single line seperated by space.

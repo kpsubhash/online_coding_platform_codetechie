@@ -1,0 +1,4 @@
+In this challenge, we will learn some basic concepts of C that will get you started with the language. You will need to use the
+ same syntax to read input and write output in many C challenges.
+This challenge requires you to print HELLO,WORLD! and then print the given input integer N on a single line seperated by space.
+
